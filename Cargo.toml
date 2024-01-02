@@ -1,0 +1,14 @@
+[package]
+name = "piecrust-macros"
+authors = ["Hein Dauven"]
+version = "0.1.0"
+edition = "2021"
+description = "Macro library for the Dusk Piecrust VM"
+
+[dependencies]
+syn = "2.0.44"
+quote = "1.0.34"
+piecrust-uplink = { path = "../piecrust-uplink" }
+
+[lib]
+proc-macro = true
