@@ -7,11 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2024-01-02
+
 ### Added
 
-- Proc Macro for `uplink::wrap_call` [#308]
+- Contract proc macro for `uplink::wrap_call` [#1]
 
 <!-- ISSUES -->
 [#1]: https://github.com/HDauven/piecrust-macros/issues/1
 
 <!-- VERSIONS -->
+[Unreleased]: https://github.com/HDauven/piecrust-macros/compare/piecrust-macros/v0.1.0...HEAD
+[0.1.0]: https://github.com/HDauven/piecrust-macros/releases/tag/v0.1.0
