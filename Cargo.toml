@@ -4,6 +4,7 @@ authors = ["Hein Dauven"]
 version = "0.1.0"
 edition = "2021"
 description = "Macro library for the Dusk Piecrust VM"
+license = "MPL-2.0"
 
 [dependencies]
 syn = { version = "2.0.44", features = ["full"] }
