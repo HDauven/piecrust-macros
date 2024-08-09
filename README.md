@@ -11,7 +11,7 @@ The main feature of `piecrust-macros` is the `#[contract]` attribute macro. This
 
 Add `piecrust_macros` as a dependency to your contract project:
 ```sh
-cargo install piecrust_macros
+cargo add piecrust_macros
 ```
 
 To use the macro, import it into your Rust smart contract and annotate your contract's implementation with #[contract]:
