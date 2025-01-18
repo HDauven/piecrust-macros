@@ -1,4 +1,8 @@
-# π-crust Macros
+# 🚨 Deprecated: π-crust Macros
+
+This repository has been deprecated.
+
+Piecrust Macros is no longer maintained, as all functionality has been consolidated and improved in [Dusk Forge](https://github.com/HDauven/dusk-forge).
 
 [![Repository](https://img.shields.io/badge/github-piecrust%20macros-blueviolet?logo=github)](https://github.com/HDauven/piecrust-macros)
 [![Documentation](https://img.shields.io/badge/docs-piecrust%20macros-blue?logo=rust)](https://docs.rs/piecrust-macros/)
